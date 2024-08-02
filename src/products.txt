@@ -1,0 +1,2 @@
+Product [name=Apple, id=1, price=65.0, quantity=10]
+Product [name=Mango, id=2, price=95.0, quantity=100]

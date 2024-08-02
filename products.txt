@@ -1,0 +1,1 @@
+Product [name=cHICKOO, id=1, price=36.0, quantity=25]
